@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/teofilocorrea/PostgreSQL_Silver_Layer/main/sql/03_silver/asset/table_design_SQL_silver.png)
+![Banner](asset/table_design_SQL_silver.png)
 
 ## 📌 Descripción
 
@@ -137,7 +137,7 @@ PostgreSQL_Silver_Layer/
 
 ## 🗺️ Diagrama ERD
 
-![ERD Silver](https://raw.githubusercontent.com/teofilocorrea/PostgreSQL_Silver_Layer/main/sql/03_silver/asset/diagram_erd_sliver.png)
+![ERD Silver](docs/diagram_erd_sliver.png)
 
 ---
 
