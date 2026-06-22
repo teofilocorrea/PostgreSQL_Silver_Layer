@@ -178,6 +178,6 @@ FROM bronze.categorias;
 
 ### Teófilo Correa Rojas
 
-**Data Analytics | Data Engineering en formación**
+**Project Manager Digital | Data analytic**
 
 🔗 [LinkedIn](https://www.linkedin.com/in/teófilo-correa-rojas/)
